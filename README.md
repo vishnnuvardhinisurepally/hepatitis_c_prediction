@@ -55,18 +55,18 @@ EDA is conducted to understand the distribution of the data and the relationship
 
 Categorical features like `Sex` and `Category` are encoded into numerical values for model training. The following columns are used as features:
 
-- Age
-- Sex
-- ALB
-- ALP
-- ALT
-- AST
-- BIL
-- CHE
-- CHOL
-- CREA
-- GGT
-- PROT
+- **Age**
+- **Sex**
+- **ALB**
+- **ALP**
+- **ALT**
+- **AST**
+- **BIL**
+- **CHE**
+- **CHOL**
+- **CREA**
+- **GGT**
+- **PROT**
 
 ## Model Training
 
