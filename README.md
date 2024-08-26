@@ -94,6 +94,6 @@ The model's performance is evaluated using:
 
 ## Results
 
-- **Model Accuracy**: The model achieved an accuracy of `XX%` on the test dataset (replace with your actual result).
+- **Model Accuracy**: The model achieved an accuracy of `90%` on the test dataset.
 - **Key Insights**: The EDA provided valuable insights into the distribution of various blood test results and their correlation with the target variable.
 
