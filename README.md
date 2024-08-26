@@ -1,5 +1,4 @@
 
-### README.md
 # Hepatitis C Prediction using Logistic Regression
 
 This repository contains code and analysis for a project focused on the Hepatitis C dataset. The main goal is to preprocess the data, conduct exploratory data analysis (EDA), and build a logistic regression model to predict the health status of patients based on various blood test results.
